@@ -1,4 +1,4 @@
-👋 Hi, I’m @AkshayaG12
+👋 Hi, I’m Akshaya Gunnepalli
 👀 I’m interested in building user-friendly, scalable iOS applications.
 🌱 I’m currently exploring advanced Swift and SwiftUI features.
 💞️ I’m looking to collaborate on innovative mobile app projects.
